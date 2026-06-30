@@ -1,8 +1,7 @@
 ![Aliza Feldstein GitHub Banner](./banner.png)
 
 I am a Computer Science graduate, specializing in Cybersecurity.  
-  I have hands-on experience building full-stack applications, automation workflows, and machine learning projects, with a strong focus on cybersecurity and AI-based security solutions. I enjoy developing practical tools that improve efficiency, and support threat detection.
----
+I have hands-on experience building full-stack applications, automation workflows, and machine learning projects, with a strong focus on cybersecurity and AI-based security solutions. I enjoy developing practical tools that improve efficiency, and support threat detection.
 
 ## About Me
 
