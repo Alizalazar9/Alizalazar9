@@ -1,6 +1,6 @@
 ![Aliza Feldstein GitHub Banner](./banner.png)
 
-I am a Computer Science student at Ariel University, specializing in Cybersecurity.  
+I am a Computer Science graduate from Ariel University, specializing in Cybersecurity.  
 I have experience in full-stack development, automation, machine learning, and AI-based security projects.
 
 ---
@@ -8,19 +8,17 @@ I have experience in full-stack development, automation, machine learning, and A
 ## About Me
 
 🎓 B.Sc. Computer Science, Cybersecurity Track  
-💻 Angular, Python, REST APIs, frontend/backend integration  
 🛡 Cybersecurity, malware analysis, threat detection  
 🤖 Machine learning and AI security projects  
-⚙️ Automation with Microsoft Power Automate  
 🎖 Former Unit 8200 soldier  
 
 ---
 
 ## Contact
 
-[![Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./CV-ALIZA.pdf)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aliza-feldstein-537426333/)
-[![Email](https://img.shields.io/badge/Email-alizalazar9%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alizalazar9@gmail.com)
+📄 [View My Resume](./Aliza_Feldstein_CV.pdf)  
+💼 [LinkedIn](https://www.linkedin.com/in/aliza-feldstein-537426333/)  
+📧 [alizalazar9@gmail.com](mailto:alizalazar9@gmail.com)
 
 ---
 
