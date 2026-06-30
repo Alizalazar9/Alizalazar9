@@ -1,5 +1,4 @@
 ![Aliza Feldstein GitHub Banner](./banner.png)
-# Aliza Feldstein 
 
 **Computer Science Student | Full-Stack Developer | Cybersecurity**
 
