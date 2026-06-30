@@ -1,4 +1,4 @@
-# Hi, I'm Aliza Feldstein 👋
+# Aliza Feldstein 
 
 **Computer Science Student | Full-Stack Developer | Cybersecurity**
 
@@ -16,20 +16,6 @@ I have experience in full-stack development, automation, machine learning, and A
 ⚙️ Automation with Microsoft Power Automate  
 🎖 Former Unit 8200 soldier  
 
----
-
-## Featured Projects
-
-### AI-Based VBS Malware Detection
-Malware detection system for VBScript files using LSTM and ensemble classification.
-
-### Encrypted Traffic Classification
-Machine learning pipeline for encrypted network traffic classification using XGBoost.
-
-### Autonomous Malware Agent
-AI agent project for malware detection and cybersecurity workflows.
-
----
 
 ## Tech Stack
 
@@ -41,8 +27,3 @@ AI agent project for malware detection and cybersecurity workflows.
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230)
 
 ---
-
-## Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/Alizalazar9)
