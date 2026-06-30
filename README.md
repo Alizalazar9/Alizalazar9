@@ -1,7 +1,5 @@
 ![Aliza Feldstein GitHub Banner](./banner.png)
 
-**Computer Science Student | Full-Stack Developer | Cybersecurity**
-
 I am a Computer Science student at Ariel University, specializing in Cybersecurity.  
 I have experience in full-stack development, automation, machine learning, and AI-based security projects.
 
