@@ -16,7 +16,7 @@ I have experience in full-stack development, automation, machine learning, and A
 
 ## Contact
 
-📄 [View My Resume](./Aliza_Feldstein_CV.pdf)  
+📄 [My Resume](./Aliza_Feldstein_CV.pdf)  
 💼 [LinkedIn](https://www.linkedin.com/in/aliza-feldstein-537426333/)  
 📧 [alizalazar9@gmail.com](mailto:alizalazar9@gmail.com)
 
