@@ -14,6 +14,15 @@ I have experience in full-stack development, automation, machine learning, and A
 ⚙️ Automation with Microsoft Power Automate  
 🎖 Former Unit 8200 soldier  
 
+---
+
+## Contact
+
+[![Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./CV-ALIZA.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aliza-feldstein-537426333/)
+[![Email](https://img.shields.io/badge/Email-alizalazar9%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alizalazar9@gmail.com)
+
+---
 
 ## Tech Stack
 
