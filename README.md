@@ -1,4 +1,5 @@
-ChatGPT Image Jun 30, 2026, 04_51_27 PM.png
+![Aliza Feldstein GitHub Banner](./ChatGPT Image Jun 30, 2026, 04_51_27 PM.png)
+
 # Aliza Feldstein 
 
 **Computer Science Student | Full-Stack Developer | Cybersecurity**
